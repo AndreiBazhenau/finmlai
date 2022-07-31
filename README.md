@@ -1,2 +1,1 @@
-# Data-Journey
-data journey
+# Data, Machine Learning, AI all in one place.
